@@ -1,0 +1,553 @@
+,IMAGE_NUMBER,REAL_NAME,MALE,FEMALE,SELECT,PAPER,PAPER_NUMBER,CORRECT
+0,1,U0001.bmp,10,90,Select,No,,Female
+1,2,U0003.bmp,0,100,Select,No,,Female
+2,3,U0005.bmp,35,65,No,Yes,1,Not agreed
+3,4,U0006.bmp,10,90,Select,Yes,2,Female
+4,5,U0009.bmp,0,100,Select,Yes,3,Female
+5,6,U0010.bmp,45,55,No,Yes,4,Not agreed
+6,7,U0011.bmp,5,95,Select,Yes,5,Female
+7,8,U0012.bmp,95,5,Select,Yes,6,Male
+8,9,U0014.bmp,95,5,Select,Yes,7,Male
+9,10,U0015.bmp,75,25,No,Yes,8,Not agreed
+10,11,U0017.bmp,100,0,Select,No,,Male
+11,12,U0018.bmp,0,100,Select,No,,Female
+12,13,U0019.bmp,90,10,Select,No,,Male
+13,14,U0020.bmp,90,10,Select,No,,Male
+14,15,U0023.bmp,0,100,Select,No,,Female
+15,16,U0024.bmp,10,90,Select,Yes,9,Female
+16,17,U0025.bmp,0,100,Select,No,,Female
+17,18,U0026.bmp,20,80,No,No,,Not agreed
+18,19,U0027.bmp,0,100,Select,No,,Female
+19,20,U0028.bmp,30,70,No,Yes,10,Not agreed
+20,21,U0030.bmp,10,90,Select,Yes,11,Female
+21,22,U0031.bmp,100,0,Select,No,,Male
+22,23,U0033.bmp,40,60,No,Yes,12,Not agreed
+23,24,U0034.bmp,0,100,Select,Yes,13,Female
+24,25,U0036.bmp,100,0,Select,No,,Male
+25,26,U0037.bmp,100,0,Select,No,,Male
+26,27,U0038.bmp,100,0,Select,Yes,14,Male
+27,28,U0039.bmp,95,5,Select,No,,Male
+28,29,U0041.bmp,50,50,No,Yes,15,Not agreed
+29,30,U0042.bmp,75,25,No,Yes,16,Not agreed
+30,31,U0046.bmp,100,0,Select,Yes,17,Male
+31,32,U0047.bmp,70,30,No,Yes,18,Not agreed
+32,33,U0048.bmp,95,5,Select,No,,Male
+33,34,U0049.bmp,95,5,Select,No,,Male
+34,35,U0050.bmp,100,0,Select,No,,Male
+35,36,U0052.bmp,100,0,Select,No,,Male
+36,37,U0057.bmp,15,85,No,No,,Not agreed
+37,38,U0058.bmp,100,0,Select,No,,Male
+38,39,U0059.bmp,35,65,No,Yes,19,Not agreed
+39,40,U0061.bmp,0,100,Select,Yes,20,Female
+40,41,U0064.bmp,0,100,Select,No,,Female
+41,42,U0068.bmp,90,10,Select,Yes,21,Male
+42,43,U0069.bmp,0,100,Select,No,,Female
+43,44,U0071.bmp,95,5,Select,No,,Male
+44,45,U0072.bmp,45,55,No,Yes,22,Not agreed
+45,46,U0073.bmp,40,60,No,Yes,23,Not agreed
+46,47,U0074.bmp,100,0,Select,Yes,24,Male
+47,48,U0075.bmp,95,5,Select,No,,Male
+48,49,U0076.bmp,0,100,Select,No,,Female
+49,50,U0078.bmp,70,30,No,Yes,25,Not agreed
+50,51,U0079.bmp,0,100,Select,No,,Female
+51,52,U0080.bmp,5,95,Select,No,,Female
+52,53,U0084.bmp,95,5,Select,No,,Male
+53,54,U0086.bmp,0,100,Select,Yes,26,Female
+54,55,U0087.bmp,15,85,No,Yes,27,Not agreed
+55,56,U0090.bmp,95,5,Select,No,,Male
+56,57,U0091.bmp,20,80,No,No,,Not agreed
+57,58,U0093.bmp,70,30,No,Yes,28,Not agreed
+58,59,U0095.bmp,10,90,Select,No,,Female
+59,60,U0096.bmp,95,5,Select,Yes,29,Male
+60,61,U0097.bmp,0,100,Select,No,,Female
+61,62,U0101.bmp,90,10,Select,No,,Male
+62,63,U0103.bmp,55,45,No,Yes,30,Not agreed
+63,64,U0106.bmp,5,95,Select,No,,Female
+64,65,U0107.bmp,10,90,Select,Yes,31,Female
+65,66,U0108.bmp,0,100,Select,No,,Female
+66,67,U0110.bmp,95,5,Select,No,,Male
+67,68,U0114.bmp,0,100,Select,No,,Female
+68,69,U0117.bmp,95,5,Select,No,,Male
+69,70,U0120.bmp,40,60,No,Yes,32,Not agreed
+70,71,U0121.bmp,95,5,Select,Yes,33,Male
+71,72,U0122.bmp,95,5,Select,Yes,34,Male
+72,73,U0123.bmp,0,100,Select,Yes,35,Female
+73,74,U0124.bmp,5,95,Select,No,,Female
+74,75,U0125.bmp,100,0,Select,No,,Male
+75,76,U0126.bmp,10,90,Select,No,,Female
+76,77,U0128.bmp,95,5,Select,No,,Male
+77,78,U0129.bmp,15,85,No,Yes,36,Not agreed
+78,79,U0131.bmp,85,15,No,Yes,37,Not agreed
+79,80,U0133.bmp,10,90,Select,No,,Female
+80,81,U0134.bmp,10,90,Select,Yes,38,Female
+81,82,U0136.bmp,95,5,Select,No,,Male
+82,83,U0137.bmp,10,90,Select,No,,Female
+83,84,U0138.bmp,25,75,No,Yes,39,Not agreed
+84,85,U0139.bmp,50,50,No,Yes,40,Not agreed
+85,86,U0140.bmp,0,100,Select,No,,Female
+86,87,U0141.bmp,0,100,Select,No,,Female
+87,88,U0142.bmp,95,5,Select,No,,Male
+88,89,U0144.bmp,95,5,Select,No,,Male
+89,90,U0145.bmp,15,85,No,Yes,41,Not agreed
+90,91,U0146.bmp,5,95,Select,No,,Female
+91,92,U0149.bmp,90,10,Select,No,,Male
+92,93,U0152.bmp,5,95,Select,No,,Female
+93,94,U0153.bmp,95,5,Select,No,,Male
+94,95,U0155.bmp,5,95,Select,No,,Female
+95,96,U0156.bmp,5,95,Select,No,,Female
+96,97,U0157.bmp,95,5,Select,No,,Male
+97,98,U0158.bmp,100,0,Select,No,,Male
+98,99,U0159.bmp,100,0,Select,No,,Male
+99,100,U0160.bmp,5,95,Select,No,,Female
+100,101,U0164.bmp,5,95,Select,No,,Female
+101,102,U0165.bmp,15,85,No,No,,Not agreed
+102,103,U0166.bmp,95,5,Select,No,,Male
+103,104,U0168.bmp,60,40,No,Yes,42,Not agreed
+104,105,U0171.bmp,100,0,Select,No,,Male
+105,106,U0173.bmp,10,90,Select,Yes,43,Female
+106,107,U0175.bmp,100,0,Select,No,,Male
+107,108,U0178.bmp,100,0,Select,Yes,44,Male
+108,109,U0179.bmp,75,25,No,Yes,45,Not agreed
+109,110,U0181.bmp,5,95,Select,No,,Female
+110,111,U0182.bmp,25,75,No,Yes,46,Not agreed
+111,112,U0183.bmp,70,30,No,Yes,47,Not agreed
+112,113,U0186.bmp,15,85,No,Yes,48,Not agreed
+113,114,U0187.bmp,80,20,No,Yes,49,Not agreed
+114,115,U0188.bmp,15,85,No,Yes,50,Not agreed
+115,116,U0189.bmp,30,70,No,No,,Not agreed
+116,117,U0192.bmp,20,80,No,No,,Not agreed
+117,118,U0193.bmp,5,95,Select,Yes,51,Female
+118,119,U0194.bmp,5,95,Select,No,,Female
+119,120,U0195.bmp,40,60,No,Yes,52,Not agreed
+120,121,U0197.bmp,100,0,Select,Yes,53,Male
+121,122,U0198.bmp,95,5,Select,No,,Male
+122,123,U0199.bmp,100,0,Select,No,,Male
+123,124,U0204.bmp,5,95,Select,No,,Female
+124,125,U0206.bmp,5,95,Select,No,,Female
+125,126,U0207.bmp,100,0,Select,Yes,54,Male
+126,127,U0208.bmp,0,100,Select,No,,Female
+127,128,U0209.bmp,80,20,No,No,,Not agreed
+128,129,U0210.bmp,5,95,Select,No,,Female
+129,130,U0211.bmp,90,10,Select,No,,Male
+130,131,U0214.bmp,5,95,Select,Yes,55,Female
+131,132,U0215.bmp,15,85,No,No,,Not agreed
+132,133,U0217.bmp,95,5,Select,Yes,56,Male
+133,134,U0219.bmp,0,100,Select,No,,Female
+134,135,U0220.bmp,0,100,Select,No,,Female
+135,136,U0222.bmp,100,0,Select,No,,Male
+136,137,U0223.bmp,100,0,Select,No,,Male
+137,138,U0225.bmp,0,100,Select,No,,Female
+138,139,U0228.bmp,100,0,Select,Yes,57,Male
+139,140,U0229.bmp,0,100,Select,No,,Female
+140,141,U0230.bmp,35,65,No,Yes,58,Not agreed
+141,142,U0231.bmp,5,95,Select,No,,Female
+142,143,U0233.bmp,15,85,No,No,,Not agreed
+143,144,U0234.bmp,95,5,Select,No,,Male
+144,145,U0236.bmp,15,85,No,No,,Not agreed
+145,146,U0239.bmp,95,5,Select,No,,Male
+146,147,U0240.bmp,95,5,Select,No,,Male
+147,148,U0242.bmp,70,30,No,Yes,59,Not agreed
+148,149,U0244.bmp,10,90,Select,Yes,60,Female
+149,150,U0245.bmp,100,0,Select,No,,Male
+150,151,U0248.bmp,100,0,Select,Yes,61,Male
+151,152,U0249.bmp,95,5,Select,No,,Male
+152,153,U0252.bmp,0,100,Select,No,,Female
+153,154,U0254.bmp,95,5,Select,Yes,62,Male
+154,155,U0255.bmp,10,90,Select,No,,Female
+155,156,U0258.bmp,0,100,Select,Yes,63,Female
+156,157,U0260.bmp,85,15,No,Yes,64,Not agreed
+157,158,U0262.bmp,0,100,Select,No,,Female
+158,159,U0264.bmp,0,100,Select,No,,Female
+159,160,U0266.bmp,85,15,No,No,,Not agreed
+160,161,U0269.bmp,100,0,Select,No,,Male
+161,162,U0272.bmp,100,0,Select,No,,Male
+162,163,U0273.bmp,100,0,Select,No,,Male
+163,164,U0274.bmp,95,5,Select,No,,Male
+164,165,U0276.bmp,0,100,Select,No,,Female
+165,166,U0277.bmp,95,5,Select,No,,Male
+166,167,U0280.bmp,20,80,No,Yes,65,Not agreed
+167,168,U0283.bmp,0,100,Select,No,,Female
+168,169,U0284.bmp,95,5,Select,No,,Male
+169,170,U0286.bmp,100,0,Select,No,,Male
+170,171,U0288.bmp,100,0,Select,No,,Male
+171,172,U0291.bmp,100,0,Select,No,,Male
+172,173,U0292.bmp,0,100,Select,No,,Female
+173,174,U0293.bmp,0,100,Select,No,,Female
+174,175,U0294.bmp,40,60,No,Yes,66,Not agreed
+175,176,U0295.bmp,5,95,Select,No,,Female
+176,177,U0296.bmp,85,15,No,No,,Not agreed
+177,178,U0297.bmp,100,0,Select,No,,Male
+178,179,U0298.bmp,0,100,Select,No,,Female
+179,180,U0301.bmp,5,95,Select,No,,Female
+180,181,U0302.bmp,95,5,Select,No,,Male
+181,182,U0304.bmp,5,95,Select,No,,Female
+182,183,U0305.bmp,5,95,Select,No,,Female
+183,184,U0307.bmp,100,0,Select,No,,Male
+184,185,U0309.bmp,5,95,Select,Yes,67,Female
+185,186,U0312.bmp,95,5,Select,Yes,68,Male
+186,187,U0313.bmp,5,95,Select,No,,Female
+187,188,U0314.bmp,5,95,Select,No,,Female
+188,189,U0316.bmp,90,10,Select,No,,Male
+189,190,U0317.bmp,95,5,Select,No,,Male
+190,191,U0319.bmp,95,5,Select,No,,Male
+191,192,U0320.bmp,100,0,Select,No,,Male
+192,193,U0321.bmp,5,95,Select,No,,Female
+193,194,U0325.bmp,35,65,No,No,,Not agreed
+194,195,U0326.bmp,5,95,Select,No,,Female
+195,196,U0328.bmp,100,0,Select,No,,Male
+196,197,U0329.bmp,100,0,Select,No,,Male
+197,198,U0330.bmp,100,0,Select,No,,Male
+198,199,U0331.bmp,100,0,Select,No,,Male
+199,200,U0332.bmp,15,85,No,No,,Not agreed
+200,201,U0334.bmp,0,100,Select,No,,Female
+201,202,U0335.bmp,5,95,Select,No,,Female
+202,203,U0336.bmp,35,65,No,No,,Not agreed
+203,204,U0337.bmp,0,100,Select,No,,Female
+204,205,U0340.bmp,100,0,Select,No,,Male
+205,206,U0346.bmp,95,5,Select,No,,Male
+206,207,U0348.bmp,95,5,Select,No,,Male
+207,208,U0355.bmp,95,5,Select,No,,Male
+208,209,U0356.bmp,100,0,Select,No,,Male
+209,210,U0357.bmp,100,0,Select,Yes,69,Male
+210,211,U0359.bmp,90,10,Select,No,,Male
+211,212,U0361.bmp,10,90,Select,No,,Female
+212,213,U0362.bmp,10,90,Select,No,,Female
+213,214,U0363.bmp,10,90,Select,No,,Female
+214,215,U0366.bmp,5,95,Select,No,,Female
+215,216,U0367.bmp,0,100,Select,No,,Female
+216,217,U0368.bmp,0,100,Select,Yes,70,Female
+217,218,U0369.bmp,5,95,Select,Yes,71,Female
+218,219,U0370.bmp,0,100,Select,No,,Female
+219,220,U0373.bmp,5,95,Select,No,,Female
+220,221,U0374.bmp,0,100,Select,No,,Female
+221,222,U0375.bmp,0,100,Select,No,,Female
+222,223,U0377.bmp,5,95,Select,Yes,72,Female
+223,224,U0381.bmp,5,95,Select,No,,Female
+224,225,U0382.bmp,5,95,Select,No,,Female
+225,226,U0384.bmp,90,10,Select,No,,Male
+226,227,U0385.bmp,90,10,Select,No,,Male
+227,228,U0387.bmp,75,25,No,Yes,73,Not agreed
+228,229,U0393.bmp,100,0,Select,Yes,74,Male
+229,230,U0395.bmp,95,5,Select,No,,Male
+230,231,U0396.bmp,25,75,No,Yes,75,Not agreed
+231,232,U0397.bmp,5,95,Select,Yes,76,Female
+232,233,U0398.bmp,100,0,Select,No,,Male
+233,234,U0399.bmp,90,10,Select,No,,Male
+234,235,U0400.bmp,90,10,Select,Yes,77,Male
+235,236,U0401.bmp,95,5,Select,Yes,78,Male
+236,237,U0402.bmp,85,15,No,No,,Not agreed
+237,238,U0403.bmp,90,10,Select,No,,Male
+238,239,U0406.bmp,45,55,No,Yes,79,Not agreed
+239,240,U0408.bmp,90,10,Select,No,,Male
+240,241,U0411.bmp,100,0,Select,Yes,80,Male
+241,242,U0412.bmp,25,75,No,Yes,81,Not agreed
+242,243,U0415.bmp,100,0,Select,Yes,82,Male
+243,244,U0416.bmp,100,0,Select,No,,Male
+244,245,U0417.bmp,95,5,Select,No,,Male
+245,246,U0419.bmp,75,25,No,Yes,83,Not agreed
+246,247,U0424.bmp,0,100,Select,No,,Female
+247,248,U0427.bmp,10,90,Select,No,,Female
+248,249,U0432.bmp,95,5,Select,Yes,84,Male
+249,250,U0434.bmp,5,95,Select,No,,Female
+250,251,U0435.bmp,100,0,Select,Yes,85,Male
+251,252,U0436.bmp,30,70,No,Yes,86,Not agreed
+252,253,U0441.bmp,85,15,No,Yes,87,Not agreed
+253,254,U0443.bmp,95,5,Select,Yes,88,Male
+254,255,U0445.bmp,95,5,Select,No,,Male
+255,256,U0448.bmp,20,80,No,Yes,89,Not agreed
+256,257,U0451.bmp,90,10,Select,Yes,90,Male
+257,258,U0452.bmp,100,0,Select,No,,Male
+258,259,U0457.bmp,15,85,No,No,,Not agreed
+259,260,U0459.bmp,95,5,Select,Yes,91,Male
+260,261,U0461.bmp,95,5,Select,Yes,92,Male
+261,262,U0462.bmp,50,50,No,Yes,93,Not agreed
+262,263,U0464.bmp,25,75,No,Yes,94,Not agreed
+263,264,U0470.bmp,65,35,No,Yes,95,Not agreed
+264,265,U0480.bmp,95,5,Select,No,,Male
+265,266,U0488.bmp,10,90,Select,No,,Female
+266,267,U0493.bmp,95,5,Select,No,,Male
+267,268,U0495.bmp,100,0,Select,No,,Male
+268,269,U0497.bmp,90,10,Select,No,,Male
+269,270,U0499.bmp,95,5,Select,No,,Male
+270,271,U0501.bmp,5,95,Select,No,,Female
+271,272,U0502.bmp,100,0,Select,No,,Male
+272,273,U0503.bmp,10,90,Select,Yes,96,Female
+273,274,U0504.bmp,100,0,Select,No,,Male
+274,275,obama.bmp,100,0,Select,No,,Male
+275,276,scarlett.bmp,0,100,Select,No,,Female
+276,277,bradpitt.bmp,100,0,Select,No,,Male
+277,278,angelina.bmp,0,100,Select,No,,Female
+,,I0001.bmp,10,90,Select,No,,Female
+,,I0003.bmp,0,100,Select,No,,Female
+,,I0005.bmp,35,65,No,Yes,1,Not agreed
+,,I0006.bmp,10,90,Select,Yes,2,Female
+,,I0009.bmp,0,100,Select,Yes,3,Female
+,,I0010.bmp,45,55,No,Yes,4,Not agreed
+,,I0011.bmp,5,95,Select,Yes,5,Female
+,,I0012.bmp,95,5,Select,Yes,6,Male
+,,I0014.bmp,95,5,Select,Yes,7,Male
+,,I0015.bmp,75,25,No,Yes,8,Not agreed
+,,I0017.bmp,100,0,Select,No,,Male
+,,I0018.bmp,0,100,Select,No,,Female
+,,I0019.bmp,90,10,Select,No,,Male
+,,I0020.bmp,90,10,Select,No,,Male
+,,I0023.bmp,0,100,Select,No,,Female
+,,I0024.bmp,10,90,Select,Yes,9,Female
+,,I0025.bmp,0,100,Select,No,,Female
+,,I0026.bmp,20,80,No,No,,Not agreed
+,,I0027.bmp,0,100,Select,No,,Female
+,,I0028.bmp,30,70,No,Yes,10,Not agreed
+,,I0030.bmp,10,90,Select,Yes,11,Female
+,,I0031.bmp,100,0,Select,No,,Male
+,,I0033.bmp,40,60,No,Yes,12,Not agreed
+,,I0034.bmp,0,100,Select,Yes,13,Female
+,,I0036.bmp,100,0,Select,No,,Male
+,,I0037.bmp,100,0,Select,No,,Male
+,,I0038.bmp,100,0,Select,Yes,14,Male
+,,I0039.bmp,95,5,Select,No,,Male
+,,I0041.bmp,50,50,No,Yes,15,Not agreed
+,,I0042.bmp,75,25,No,Yes,16,Not agreed
+,,I0046.bmp,100,0,Select,Yes,17,Male
+,,I0047.bmp,70,30,No,Yes,18,Not agreed
+,,I0048.bmp,95,5,Select,No,,Male
+,,I0049.bmp,95,5,Select,No,,Male
+,,I0050.bmp,100,0,Select,No,,Male
+,,I0052.bmp,100,0,Select,No,,Male
+,,I0057.bmp,15,85,No,No,,Not agreed
+,,I0058.bmp,100,0,Select,No,,Male
+,,I0059.bmp,35,65,No,Yes,19,Not agreed
+,,I0061.bmp,0,100,Select,Yes,20,Female
+,,I0064.bmp,0,100,Select,No,,Female
+,,I0068.bmp,90,10,Select,Yes,21,Male
+,,I0069.bmp,0,100,Select,No,,Female
+,,I0071.bmp,95,5,Select,No,,Male
+,,I0072.bmp,45,55,No,Yes,22,Not agreed
+,,I0073.bmp,40,60,No,Yes,23,Not agreed
+,,I0074.bmp,100,0,Select,Yes,24,Male
+,,I0075.bmp,95,5,Select,No,,Male
+,,I0076.bmp,0,100,Select,No,,Female
+,,I0078.bmp,70,30,No,Yes,25,Not agreed
+,,I0079.bmp,0,100,Select,No,,Female
+,,I0080.bmp,5,95,Select,No,,Female
+,,I0084.bmp,95,5,Select,No,,Male
+,,I0086.bmp,0,100,Select,Yes,26,Female
+,,I0087.bmp,15,85,No,Yes,27,Not agreed
+,,I0090.bmp,95,5,Select,No,,Male
+,,I0091.bmp,20,80,No,No,,Not agreed
+,,I0093.bmp,70,30,No,Yes,28,Not agreed
+,,I0095.bmp,10,90,Select,No,,Female
+,,I0096.bmp,95,5,Select,Yes,29,Male
+,,I0097.bmp,0,100,Select,No,,Female
+,,I0101.bmp,90,10,Select,No,,Male
+,,I0103.bmp,55,45,No,Yes,30,Not agreed
+,,I0106.bmp,5,95,Select,No,,Female
+,,I0107.bmp,10,90,Select,Yes,31,Female
+,,I0108.bmp,0,100,Select,No,,Female
+,,I0110.bmp,95,5,Select,No,,Male
+,,I0114.bmp,0,100,Select,No,,Female
+,,I0117.bmp,95,5,Select,No,,Male
+,,I0120.bmp,40,60,No,Yes,32,Not agreed
+,,I0121.bmp,95,5,Select,Yes,33,Male
+,,I0122.bmp,95,5,Select,Yes,34,Male
+,,I0123.bmp,0,100,Select,Yes,35,Female
+,,I0124.bmp,5,95,Select,No,,Female
+,,I0125.bmp,100,0,Select,No,,Male
+,,I0126.bmp,10,90,Select,No,,Female
+,,I0128.bmp,95,5,Select,No,,Male
+,,I0129.bmp,15,85,No,Yes,36,Not agreed
+,,I0131.bmp,85,15,No,Yes,37,Not agreed
+,,I0133.bmp,10,90,Select,No,,Female
+,,I0134.bmp,10,90,Select,Yes,38,Female
+,,I0136.bmp,95,5,Select,No,,Male
+,,I0137.bmp,10,90,Select,No,,Female
+,,I0138.bmp,25,75,No,Yes,39,Not agreed
+,,I0139.bmp,50,50,No,Yes,40,Not agreed
+,,I0140.bmp,0,100,Select,No,,Female
+,,I0141.bmp,0,100,Select,No,,Female
+,,I0142.bmp,95,5,Select,No,,Male
+,,I0144.bmp,95,5,Select,No,,Male
+,,I0145.bmp,15,85,No,Yes,41,Not agreed
+,,I0146.bmp,5,95,Select,No,,Female
+,,I0149.bmp,90,10,Select,No,,Male
+,,I0152.bmp,5,95,Select,No,,Female
+,,I0153.bmp,95,5,Select,No,,Male
+,,I0155.bmp,5,95,Select,No,,Female
+,,I0156.bmp,5,95,Select,No,,Female
+,,I0157.bmp,95,5,Select,No,,Male
+,,I0158.bmp,100,0,Select,No,,Male
+,,I0159.bmp,100,0,Select,No,,Male
+,,I0160.bmp,5,95,Select,No,,Female
+,,I0164.bmp,5,95,Select,No,,Female
+,,I0165.bmp,15,85,No,No,,Not agreed
+,,I0166.bmp,95,5,Select,No,,Male
+,,I0168.bmp,60,40,No,Yes,42,Not agreed
+,,I0171.bmp,100,0,Select,No,,Male
+,,I0173.bmp,10,90,Select,Yes,43,Female
+,,I0175.bmp,100,0,Select,No,,Male
+,,I0178.bmp,100,0,Select,Yes,44,Male
+,,I0179.bmp,75,25,No,Yes,45,Not agreed
+,,I0181.bmp,5,95,Select,No,,Female
+,,I0182.bmp,25,75,No,Yes,46,Not agreed
+,,I0183.bmp,70,30,No,Yes,47,Not agreed
+,,I0186.bmp,15,85,No,Yes,48,Not agreed
+,,I0187.bmp,80,20,No,Yes,49,Not agreed
+,,I0188.bmp,15,85,No,Yes,50,Not agreed
+,,I0189.bmp,30,70,No,No,,Not agreed
+,,I0192.bmp,20,80,No,No,,Not agreed
+,,I0193.bmp,5,95,Select,Yes,51,Female
+,,I0194.bmp,5,95,Select,No,,Female
+,,I0195.bmp,40,60,No,Yes,52,Not agreed
+,,I0197.bmp,100,0,Select,Yes,53,Male
+,,I0198.bmp,95,5,Select,No,,Male
+,,I0199.bmp,100,0,Select,No,,Male
+,,I0204.bmp,5,95,Select,No,,Female
+,,I0206.bmp,5,95,Select,No,,Female
+,,I0207.bmp,100,0,Select,Yes,54,Male
+,,I0208.bmp,0,100,Select,No,,Female
+,,I0209.bmp,80,20,No,No,,Not agreed
+,,I0210.bmp,5,95,Select,No,,Female
+,,I0211.bmp,90,10,Select,No,,Male
+,,I0214.bmp,5,95,Select,Yes,55,Female
+,,I0215.bmp,15,85,No,No,,Not agreed
+,,I0217.bmp,95,5,Select,Yes,56,Male
+,,I0219.bmp,0,100,Select,No,,Female
+,,I0220.bmp,0,100,Select,No,,Female
+,,I0222.bmp,100,0,Select,No,,Male
+,,I0223.bmp,100,0,Select,No,,Male
+,,I0225.bmp,0,100,Select,No,,Female
+,,I0228.bmp,100,0,Select,Yes,57,Male
+,,I0229.bmp,0,100,Select,No,,Female
+,,I0230.bmp,35,65,No,Yes,58,Not agreed
+,,I0231.bmp,5,95,Select,No,,Female
+,,I0233.bmp,15,85,No,No,,Not agreed
+,,I0234.bmp,95,5,Select,No,,Male
+,,I0236.bmp,15,85,No,No,,Not agreed
+,,I0239.bmp,95,5,Select,No,,Male
+,,I0240.bmp,95,5,Select,No,,Male
+,,I0242.bmp,70,30,No,Yes,59,Not agreed
+,,I0244.bmp,10,90,Select,Yes,60,Female
+,,I0245.bmp,100,0,Select,No,,Male
+,,I0248.bmp,100,0,Select,Yes,61,Male
+,,I0249.bmp,95,5,Select,No,,Male
+,,I0252.bmp,0,100,Select,No,,Female
+,,I0254.bmp,95,5,Select,Yes,62,Male
+,,I0255.bmp,10,90,Select,No,,Female
+,,I0258.bmp,0,100,Select,Yes,63,Female
+,,I0260.bmp,85,15,No,Yes,64,Not agreed
+,,I0262.bmp,0,100,Select,No,,Female
+,,I0264.bmp,0,100,Select,No,,Female
+,,I0266.bmp,85,15,No,No,,Not agreed
+,,I0269.bmp,100,0,Select,No,,Male
+,,I0272.bmp,100,0,Select,No,,Male
+,,I0273.bmp,100,0,Select,No,,Male
+,,I0274.bmp,95,5,Select,No,,Male
+,,I0276.bmp,0,100,Select,No,,Female
+,,I0277.bmp,95,5,Select,No,,Male
+,,I0280.bmp,20,80,No,Yes,65,Not agreed
+,,I0283.bmp,0,100,Select,No,,Female
+,,I0284.bmp,95,5,Select,No,,Male
+,,I0286.bmp,100,0,Select,No,,Male
+,,I0288.bmp,100,0,Select,No,,Male
+,,I0291.bmp,100,0,Select,No,,Male
+,,I0292.bmp,0,100,Select,No,,Female
+,,I0293.bmp,0,100,Select,No,,Female
+,,I0294.bmp,40,60,No,Yes,66,Not agreed
+,,I0295.bmp,5,95,Select,No,,Female
+,,I0296.bmp,85,15,No,No,,Not agreed
+,,I0297.bmp,100,0,Select,No,,Male
+,,I0298.bmp,0,100,Select,No,,Female
+,,I0301.bmp,5,95,Select,No,,Female
+,,I0302.bmp,95,5,Select,No,,Male
+,,I0304.bmp,5,95,Select,No,,Female
+,,I0305.bmp,5,95,Select,No,,Female
+,,I0307.bmp,100,0,Select,No,,Male
+,,I0309.bmp,5,95,Select,Yes,67,Female
+,,I0312.bmp,95,5,Select,Yes,68,Male
+,,I0313.bmp,5,95,Select,No,,Female
+,,I0314.bmp,5,95,Select,No,,Female
+,,I0316.bmp,90,10,Select,No,,Male
+,,I0317.bmp,95,5,Select,No,,Male
+,,I0319.bmp,95,5,Select,No,,Male
+,,I0320.bmp,100,0,Select,No,,Male
+,,I0321.bmp,5,95,Select,No,,Female
+,,I0325.bmp,35,65,No,No,,Not agreed
+,,I0326.bmp,5,95,Select,No,,Female
+,,I0328.bmp,100,0,Select,No,,Male
+,,I0329.bmp,100,0,Select,No,,Male
+,,I0330.bmp,100,0,Select,No,,Male
+,,I0331.bmp,100,0,Select,No,,Male
+,,I0332.bmp,15,85,No,No,,Not agreed
+,,I0334.bmp,0,100,Select,No,,Female
+,,I0335.bmp,5,95,Select,No,,Female
+,,I0336.bmp,35,65,No,No,,Not agreed
+,,I0337.bmp,0,100,Select,No,,Female
+,,I0340.bmp,100,0,Select,No,,Male
+,,I0346.bmp,95,5,Select,No,,Male
+,,I0348.bmp,95,5,Select,No,,Male
+,,I0355.bmp,95,5,Select,No,,Male
+,,I0356.bmp,100,0,Select,No,,Male
+,,I0357.bmp,100,0,Select,Yes,69,Male
+,,I0359.bmp,90,10,Select,No,,Male
+,,I0361.bmp,10,90,Select,No,,Female
+,,I0362.bmp,10,90,Select,No,,Female
+,,I0363.bmp,10,90,Select,No,,Female
+,,I0366.bmp,5,95,Select,No,,Female
+,,I0367.bmp,0,100,Select,No,,Female
+,,I0368.bmp,0,100,Select,Yes,70,Female
+,,I0369.bmp,5,95,Select,Yes,71,Female
+,,I0370.bmp,0,100,Select,No,,Female
+,,I0373.bmp,5,95,Select,No,,Female
+,,I0374.bmp,0,100,Select,No,,Female
+,,I0375.bmp,0,100,Select,No,,Female
+,,I0377.bmp,5,95,Select,Yes,72,Female
+,,I0381.bmp,5,95,Select,No,,Female
+,,I0382.bmp,5,95,Select,No,,Female
+,,I0384.bmp,90,10,Select,No,,Male
+,,I0385.bmp,90,10,Select,No,,Male
+,,I0387.bmp,75,25,No,Yes,73,Not agreed
+,,I0393.bmp,100,0,Select,Yes,74,Male
+,,I0395.bmp,95,5,Select,No,,Male
+,,I0396.bmp,25,75,No,Yes,75,Not agreed
+,,I0397.bmp,5,95,Select,Yes,76,Female
+,,I0398.bmp,100,0,Select,No,,Male
+,,I0399.bmp,90,10,Select,No,,Male
+,,I0400.bmp,90,10,Select,Yes,77,Male
+,,I0401.bmp,95,5,Select,Yes,78,Male
+,,I0402.bmp,85,15,No,No,,Not agreed
+,,I0403.bmp,90,10,Select,No,,Male
+,,I0406.bmp,45,55,No,Yes,79,Not agreed
+,,I0408.bmp,90,10,Select,No,,Male
+,,I0411.bmp,100,0,Select,Yes,80,Male
+,,I0412.bmp,25,75,No,Yes,81,Not agreed
+,,I0415.bmp,100,0,Select,Yes,82,Male
+,,I0416.bmp,100,0,Select,No,,Male
+,,I0417.bmp,95,5,Select,No,,Male
+,,I0419.bmp,75,25,No,Yes,83,Not agreed
+,,I0424.bmp,0,100,Select,No,,Female
+,,I0427.bmp,10,90,Select,No,,Female
+,,I0432.bmp,95,5,Select,Yes,84,Male
+,,I0434.bmp,5,95,Select,No,,Female
+,,I0435.bmp,100,0,Select,Yes,85,Male
+,,I0436.bmp,30,70,No,Yes,86,Not agreed
+,,I0441.bmp,85,15,No,Yes,87,Not agreed
+,,I0443.bmp,95,5,Select,Yes,88,Male
+,,I0445.bmp,95,5,Select,No,,Male
+,,I0448.bmp,20,80,No,Yes,89,Not agreed
+,,I0451.bmp,90,10,Select,Yes,90,Male
+,,I0452.bmp,100,0,Select,No,,Male
+,,I0457.bmp,15,85,No,No,,Not agreed
+,,I0459.bmp,95,5,Select,Yes,91,Male
+,,I0461.bmp,95,5,Select,Yes,92,Male
+,,I0462.bmp,50,50,No,Yes,93,Not agreed
+,,I0464.bmp,25,75,No,Yes,94,Not agreed
+,,I0470.bmp,65,35,No,Yes,95,Not agreed
+,,I0480.bmp,95,5,Select,No,,Male
+,,I0488.bmp,10,90,Select,No,,Female
+,,I0493.bmp,95,5,Select,No,,Male
+,,I0495.bmp,100,0,Select,No,,Male
+,,I0497.bmp,90,10,Select,No,,Male
+,,I0499.bmp,95,5,Select,No,,Male
+,,I0501.bmp,5,95,Select,No,,Female
+,,I0502.bmp,100,0,Select,No,,Male
+,,I0503.bmp,10,90,Select,Yes,96,Female
+,,I0504.bmp,100,0,Select,No,,Male
